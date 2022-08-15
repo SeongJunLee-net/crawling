@@ -1,0 +1,11 @@
+1.
+BeautifulSoup은 정적인 페이지에 있는 정보를 크롤링해오는데 사용한다
+string속성으로 추출해 올때는 어떤 태그 바로 아래에 있는 string만 추출할수
+있고 커지게되면 None을 반환한다
+2.
+Selenium은 동적인 페이지(EX> 스크롤을 내리면 추가적인 정보가 생기는 웹페이지)
+에서 사용하면 된다 selenium.webdriver.support.ui.WebDriverWait 를 적극 활용
+하여 로딩이 생기는 화면을 처리하자
+
+# 나도코딩Youtube 웹스크레이핑 참고: https://youtu.be/yQ20jZwDjTE
+# Urllib 모듈 참고: https://han-py.tistory.com/320
