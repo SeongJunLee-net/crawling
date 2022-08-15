@@ -1,0 +1,26 @@
+Encoding: gkA8Riee2xXTRIh9YW2TtE%2F9Kes6ZOwVkCnT2Fceyfk4rgb5fa4Co0c9gKYhsyA0OXNweOO4uus5AzKsZdcQYA%3D%3D
+Decoding: gkA8Riee2xXTRIh9YW2TtE/9Kes6ZOwVkCnT2Fceyfk4rgb5fa4Co0c9gKYhsyA0OXNweOO4uus5AzKsZdcQYA==
+
+서비스 URL: 서비스URL http://openapi.tour.go.kr/openapi/service/EdrcntTourismStatsService/getEdrcntTourismStatsList
+
+
+요청변수(Request Parameter)[서비스 URL뒤에 추가할 매개변수 항목]:
+연월 YM
+국가코드 NAT_CD
+출입국구분코드 ED_CD
+
+
+출력결과(Response Element)
+결과코드 resultCode
+결과메시지 resultMsg
+한 페이지 결과 수 numOfRows
+페이지 번호 pageNo
+전체 결과 수 totalCount
+출입국 구분 ed
+출입국 구분코드 edCd
+국가코드 natCd
+국가 natKorNm
+출입국자수 num
+연월 ym
+결과값 나열순서 rnum
+
